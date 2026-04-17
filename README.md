@@ -9,12 +9,7 @@ I believe in the power of technology to make a better world. My love for magneti
 
 ## Projects
 
-### EMC & Measurement
-
 - **[Near-Field Probe Kit](https://github.com/imendizabal/Near-Field-Probes)** EMC Near Field probes for EMC debugging
-
-### IoT
-
 - **[Anthilla Controller (AnthC)](https://github.com/Anthilla/AnthC)** Flexible IoT controller
 
 ## Say hello!
