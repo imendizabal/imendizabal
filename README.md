@@ -1,16 +1,26 @@
-## Hi there 👋
+# Who am I?
 
-<!--
-**imendizabal/imendizabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am Ignacio
 
-Here are some ideas to get you started:
+I believe in the power of technology to make a better world. My love for magnetism brought me to Electromagnetic Compatibility (EMC) and to dedicate myself to bring reliable hardware products to market. I build practical tools and knowledge for hardware innovators. I am a big fan of Open Source projects and the power of communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+
+### EMC & Measurement
+
+- **[Near-Field Probe Kit](https://github.com/imendizabal/Near-Field-Probes)**  
+  Open-source EMC Near Field probes for EMC debugging
+
+### IoT
+
+- **[Anthilla Controller (AnthC)](https://github.com/Anthilla/AnthC)**  
+  Flexible IoT controller
+
+## Say hello!
+
+[Linkedin](https://www.linkedin.com/in/idmendizabal/)
+
+[Website](https://ignaciodemendizabal.com)
+
+[Contact me](https://ignaciodemendizabal.com/contact)
